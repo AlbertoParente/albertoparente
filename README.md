@@ -39,5 +39,5 @@
 <div/>
 
 <div align="center" >
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=albertoparente&theme=radical&count_private=true&show_icons=true" alt="AlbertoParente's github stats" />
+  <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=albertoparente&theme=radical&count_private=true&show_icons=true" alt="AlbertoParente's github stats" />
 </div>
