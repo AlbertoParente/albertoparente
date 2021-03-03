@@ -1,6 +1,6 @@
 ## Hi! I'm Alberto Parente 👋
 
-<br />
+
 * 💜  Programming is my passion.
 * 👨🏻‍💻  Studying Computer Science.
 * 🔭  I’m currently working on Innovaro Sistemas.
@@ -41,8 +41,9 @@
   <a src="https://ohmyz.sh">
      <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
-<div/>
+<div />
 
+<br />
 <br />
 
 <div align="center" >
